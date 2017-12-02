@@ -6,6 +6,7 @@ if position_taken?(board,index+1) ==true
 else
   false
 end
+end
 else
 false
 end
